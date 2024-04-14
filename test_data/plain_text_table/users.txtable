@@ -1,0 +1,4 @@
+|id:int|name:str    |birth_year:int|
+|1     |John Doe    | 1988         |
+|2     |Ivan Pupkin | 2000         |
+|3     |Кот Леопольд| 1975         |
